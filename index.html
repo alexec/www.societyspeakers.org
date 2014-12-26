@@ -21,11 +21,8 @@
         header {background-color:#06635d; color:#fff;padding-bottom: 20px;padding-top: 20px;}
         .nav-social a {padding: 7.5px !important}
         header p {font-size:18pt;}
+        a.btn-social img {width:36px;height:36px;}
 
-        section,footer {padding-top:20px; padding-bottom: 20px}
-
-        section#meetings {background-color: #9f0a10; color: #fff}
-        p.next-meeting {font-weight: bolder;}
         section#photos div.img {
             background-repeat: no-repeat;
             background-position: center;
@@ -39,13 +36,19 @@
               line-height: normal;  
             color: #fff;
         }
-        a.btn-social img {width:36px;height:36px;}
+
+        section#meetings {background-color: #9f0a10;}
+        section#meetings * {color: #fff}
+        p.next-meeting {font-weight: bolder;}
+
+        section,footer {padding-top:20px; padding-bottom: 20px}
+
        footer, div.navbar-inverse {background-color: #233140 !important;color:#fff;}
     </style>
 </head>
-<body>
+<body id="page-top">
 
-    <nav class="navbar navbar-inverse navbar-fixed-top">
+    <nav class="navbar navbar-inverse navbar-fixed-top" id="page-top">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
@@ -61,7 +64,7 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="page-scroll"><a href="#about">About Us</a></li>
+                    <li class="page-scroll"><a href="#about-us">About Us</a></li>
                     <li class="page-scroll"><a href="#meetings">Meetings</a></li>
                     <li class="nav-social">
                         <a href="https://www.facebook.com/SocietySpeakers" class="btn-social"><img src="images/facebook.png"/></a>
@@ -102,11 +105,11 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <p>
-                        Do you want to become and amazing, confident public speaker? Do you want to do in a safe environment surrounded by friendly people who want to help you? Do you want to use the skill you've learned to help others by speaking for charities? Then Society Speakers is for you!
+                        Do you want to become an amazing, confident public speaker? Do you want to do this in a safe environment surrounded by friendly people who want to help you? Then <b>Society Speakers</b> is for you!
                     </p>
                     <p>
-                        We are a <b>London Toastmasters club</b> to help people both grow their public skills, and to look to take those skills to other places to help charities and organisations they work with.
-                    </p>    
+                        We can also give you the opportunity to use the skills you've learned to help others by speaking for charities.
+                    </p> 
                     <p>
                         <button type="button" class="btn btn-lg btn-default" data-toggle="modal" data-target=".bs-example-modal-lg">Tell me more!</button>
                     </p>
@@ -143,10 +146,11 @@
             </div>
             <div class="row">
                 <div class="col-md-6">
-                    <p>The best way to find out more is to come to a meeting as a guest. It's free, you can see what we do, and meet Toastmasters. 
-                    </p>
-                    <p>We meet the first and third Wednesday of every month in the Fitzrovia Community Centre W1W 6DL.</p>
-                    <p class="next-meeting">Next meeting: 7pm Wed 7th Jan</p>                
+                    <p>The best way to find out more is to come to a meeting as a guest. It's free, you can see what we do, and meet members who can tell you more.</p>
+                    <p>We meet from 7pm to 9pm on the first and third Wednesday of every month in the Fitzrovia Community Centre W1W 6DL.</p>
+                    <p class="next-meeting">Next meetings: Wed 7th Jan and Wed 21st Jan
+                    </p>   
+                    <p>If you have any questions you can email us at <a href="mailto:awareness@societyspeakers.org">awareness@societyspeakers.org</a>.
                 </div>
                 <div class="col-md-6">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2482.6258439705616!2d-0.13888899999999998!3d51.52008!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b2a27d6950f%3A0x834a0f7909e4f1af!2sFitzrovia+Community+Centre!5e0!3m2!1sen!2suk!4v1419157414685" width="400px" height="200px" class="map" frameborder="0" style="border:0"></iframe>                
@@ -166,7 +170,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <p>
-                        If you want to hear about events, upcoming meetings and events, then please join our mailing list.
+                        If you want to hear about upcoming meetings and events, then our mailing list will let you know more.
                     </p>
                     <form action="//societyspeakers.us8.list-manage.com/subscribe/post?u=efa9a3913bd83255dd3b4d0dd&amp;id=ff7ad301c7" method="post" class="form-inline">
 
