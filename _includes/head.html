@@ -1,0 +1,43 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="{{description}}">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <title>{% if page.title %}{{ site.title }} - {{ page.title }}{% else %}{% endif %}</title>
+    <style type="text/css">
+        hr {width: 50%}
+
+        body {margin-top:50px;font-family: helvetica, sans-serif;}
+
+        nav,footer {background-color: #233140 !important}
+        nav .nav-social a {padding: 7.5px !important}
+        nav .navbar-brand > img {display: inline; margin-right: 10px}
+        nav img {width:36px;height:36px;}
+
+        header {background-color:#06635d; color:#fff;padding-bottom: 20px;padding-top: 20px;}
+
+        section,footer {padding-top:20px; padding-bottom: 20px}
+
+        section#photos div.img {
+            background-repeat: no-repeat;
+            background-position: center;
+            vertical-align: middle;
+            line-height: 320px;
+              text-align: center;
+        }
+        section#photos h2 {
+              display: inline-block;
+              vertical-align: middle;
+              line-height: normal;  
+            color: #fff;
+        }
+
+        section#meetings {background-color: #9f0a10;}
+        section#meetings * {color: #fff}
+        section#meetings p.next-meeting {font-weight: bolder;}
+
+
+       footer {color:#fff}
+    </style>
+</head>

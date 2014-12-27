@@ -1,0 +1,11 @@
+# Site settings
+title: Society Speakers London Toastmasters Club
+email: awareness@societyspeakers.org
+description: "Come and practise your public speaking at our fun and friendly central London Toastmasters club. Build confidence, get feedback and deliver your message!"
+baseurl: "" 
+url: "http://www.societyspeakers.org" 
+twitter_username: SocietySpeakers
+github_username:  alexec
+
+# Build settings
+markdown: kramdown

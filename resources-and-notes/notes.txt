@@ -1,0 +1,39 @@
+Site Updates
+---
+* Used "WP-Optimize" plugin to delete all the 72k spam comments so pages load faster.
+* Disabled comments.
+* Removed the blog subscription link (there are only 5 subscribers).
+* Removed the out of dates meeting dates from the side bar.
+
+What are you?
+---
+I run own technology blog that has about 150k visitors a year. I've also work in IT on web sites that typically have millions of customers for 12 years.
+
+Why change what we have?
+---
+Current state of play.
+
+* No one was reading the awareness@ emails since October. 
+* We get about 10 visitors a day to the website. Visitor read the "about us", "meetings", "FAQ" and contact us pages. 
+* People search for "society speakers", "toastmasters" and "london".
+* A search for "London Toastmasters" puts us at the bottom of page 2 of Google results.
+* The web site takes around 3-10 seconds to load a page.
+* We have 89 Twitter followers.
+* I don't have information on Facebook.
+* We have 46 email subscribers who open 61% of emails and click on 1% of links.
+
+What do I (IMHO) think of this? 
+
+* Someone (me) needs to read the emails :)
+* The web site is a key acquisition tool and I'd like it to be page 1 of Google, and getting 20-30 visitors a day. 
+* It is too slow to load. Google penalises slow sites: it pushes it down the listings. Slow page damage user interaction - put simple it's losing us members.
+* There are four important pages that could be given a refresh. The rest could be removed.
+* I'm not sure about Twitter. Followers seem to be other clubs, but I'd note that you can get emails automatically tweeted, so it'd be low effort to keep up to date.
+* Emails appear to be really effective. I think we (I) should be sending them weekly.
+
+Everything I talk about here is driven from the goal of acquiring new members and retaining existing members.
+
+How I'd like to do this?
+
+* I'd like us to be on page 1 of Google. 
+
